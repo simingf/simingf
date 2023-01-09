@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SimingRox
+- 👋 Hi, I’m @simingf
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, and Deep Learning.
 - 🌱 I’m currently studying Math and Computer Science at Brown!
 - 💞️ I’m looking to explore different projects and collaborate with others online.
